@@ -1,8 +1,6 @@
 # Data Rich Documents
 
-By Rufus Pollock and friends
-
-<img src="/datopian-logo.png" className="h-6 inline-block" /></p>
+By Rufus Pollock and friends <img src="/datopian-logo.png" className="h-6 inline-block" />
 
 **What?** An experiment in simple, lightweight approach to creating, displaying and sharing datasets and data-driven stories.
 
