@@ -6,6 +6,8 @@
 
 ---
 
+Experiments in lightweight ways to create, display and share datasets and data-driven stories.
+
 Experiments in data display.
 
 An experimental playground for code that and examples that may find there way into Portal.js and DataHub.io.
